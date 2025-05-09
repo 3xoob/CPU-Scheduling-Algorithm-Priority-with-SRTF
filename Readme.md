@@ -77,4 +77,3 @@ Enter `0 0 0 0` to terminate input and begin scheduling.
 ## 📚 Course Information
 
 **ITCS325 - Operating Systems**
-J
